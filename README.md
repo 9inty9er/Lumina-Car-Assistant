@@ -1,7 +1,11 @@
 Lumina-Car-Assistant/
-├── main/
-│   ├── README.md
-│   ├── Lumina/
-│   │   └── __init__.py
+├── dev/
+│   ├── lumina/
+│   │   ├── __init__.py
+│   │   ├── ai_model.py
+│   │   ├── voice_commands.py
+│   │   └── raspberry_pi.py
+│   ├── requirements.txt
+│   └── README.md
 ├── .gitignore
 └── LICENSE
